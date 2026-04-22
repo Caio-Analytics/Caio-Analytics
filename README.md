@@ -1,12 +1,12 @@
 # Olá, eu sou o Caio 👋 | Analytics Engineer Intern @ Vale
-### 🏗️ Arquitetura Multicamadas | 🐍 Automação | 🎨 Data Experience
+### 🏗️ Arquitetura Multicamadas | 🤖 Automação | 🎨 Data Experience
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=CaioCoderOne&show_icons=true&theme=transparent&title_color=A10000&text_color=ffffff&icon_color=A10000&hide_border=true" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Caio-Analytics&show_icons=true&theme=transparent&title_color=A10000&text_color=ffffff&icon_color=A10000&hide_border=true" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=CaioCoderOne&layout=donut&theme=transparent&title_color=A10000&text_color=ffffff&icon_color=A10000&hide_progress=true&hide=html,css,javascript" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=Caio-Analytics&layout=donut&theme=transparent&title_color=A10000&text_color=ffffff&icon_color=A10000&hide_progress=true&hide=html,css,javascript" />
   </a>
 </p>
 
@@ -33,10 +33,19 @@ Ocupo o espaço vital entre a Engenharia e a Análise. Minha base em software me
 
 ---
 
-### 🚀 Projetos de Impacto em Destaque
+### 💼 Professional Experience & Case Studies
+*Devido a políticas de confidencialidade (NDA), os projetos abaixo representam arquiteturas implementadas em ambiente corporativo privado.*
 
-* **[BI Ecosystem Architecture](https://github.com/CaioCoderOne/NOME-DO-REPO):** Criação de um ecossistema end-to-end integrando Power Automate -> Dataflow (Multilayer) -> Power BI para gestão de treinamentos na Vale.
-* **[Pipeline ETL Multicamadas](https://github.com/CaioCoderOne/NOME-DO-REPO):** Automação em Python para limpeza e validação de dados brutos com foco em escalabilidade e performance.
+#### 🚀 [Case] BI Ecosystem Architecture - People Analytics
+- **O Problema:** Ingestão descentralizada e excesso de relatórios manuais em L&D.
+- **A Solução:** Pipeline end-to-end integrando Power Automate -> Dataflow (Multilayer) -> Power BI.
+- **A Arquitetura:** Implementação de camadas Bronze (Raw), Silver (Generalista) e Gold (Específica) para garantir governança e segurança na decisão.
+- **Resultado:** Automação total do fluxo de treinamentos e redução drástica de processamento manual.
+
+#### 🐍 [Case] Pipeline ETL Multicamadas para Conformidade
+- **O Problema:** Dados brutos inconsistentes afetando KPIs de segurança.
+- **A Solução:** Desenvolvimento de scripts em Python para limpeza, padronização e validação de grandes volumes de dados.
+- **Stack:** Python, Pandas, SQL e Dataflow.
 
 ---
 
@@ -44,7 +53,7 @@ Ocupo o espaço vital entre a Engenharia e a Análise. Minha base em software me
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Automação+com+Python;Arquitetura+Multicamadas;Design+de+Dashboards+no+Figma;Analytics+Engineering+na+Vale&center=true&width=1000&duration=10000&color=A10000)](https://git.io/typing-svg)
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CaioCoderOne&theme=transparent&stroke=A10000&fire=A10000&ring=A10000" alt="Caio's Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Caio-Analytics&theme=transparent&stroke=A10000&fire=A10000&ring=A10000" alt="Caio's Streak" />
 </div>
 
 ---
