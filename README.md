@@ -1,47 +1,63 @@
-# Olá, eu sou o Caio 👋 | Analytics Engineer
-### 🏗️ Arquiteto de Ecossistemas de BI | 🤖 Especialista em Automação
+# Olá, eu sou o Caio 👋 | Analytics Engineer Intern @ Vale
+### 🏗️ Arquitetura Multicamadas | 🐍 Automação | 🎨 Data Experience
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CaioCoderOne&show_icons=true&theme=dark&count_private=true" alt="Caio's GitHub Stats"/>
-</div>
-
----
-
-### 🎯 Expertise em Dados End-to-End
-Minha atuação foca na construção de fluxos de dados inteligentes e automáticos. Eu não apenas conecto bases; eu projeto a arquitetura que sustenta a inteligência da empresa.
-
-- 🤖 **Automação de Ingestão:** Implementação de fluxos com **Power Automate** e **SharePoint** para coleta de dados sem intervenção humana.
-- 🏗️ **Arquitetura Multicamada (Dataflow):**
-    - **Bronze:** Ingestão de dados brutos e preservação da origem.
-    - **Silver:** ETL Generalista (limpeza, padronização e tipagem).
-    - **Gold:** ETL Específico e regras de negócio para consumo em BI.
-- 📱 **Business Apps:** Desenvolvimento de soluções com **Power Apps** e **Dataverse** para entrada e gestão de dados.
-- 🎨 **Data Experience:** Prototipagem de dashboards no **Figma** e entrega final em **Power BI**.
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=CaioCoderOne&show_icons=true&theme=transparent&title_color=A10000&text_color=ffffff&icon_color=A10000&hide_border=true" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=CaioCoderOne&layout=donut&theme=transparent&title_color=A10000&text_color=ffffff&icon_color=A10000&hide_progress=true&hide=html,css,javascript" />
+  </a>
+</p>
 
 ---
 
-### 🛠️ Tech Stack Principal
+### 🎯 Sobre Minha Atuação
+Minha jornada com a tecnologia começou aos 12 anos, desmontando computadores para entender o invisível. Hoje, como **Analytics Engineer Intern na Vale**, aplico essa mesma curiosidade para desmontar problemas de negócio e reconstruí-los como fluxos de dados eficientes.
 
-| Categoria | Tecnologias |
+Ocupo o espaço vital entre a Engenharia e a Análise. Minha base em software me permite automatizar pipelines complexos, enquanto minha visão analítica transforma dados brutos em ativos refinados através de **Arquiteturas Multicamadas (Bronze, Silver, Gold)**.
+
+- 🤖 **Automação:** Redução de **80% do esforço operacional** em fluxos críticos de RH/L&D.
+- 🏗️ **Governança:** Estruturação de Dataflows e Dataverse para garantir a "única fonte da verdade".
+- 🎨 **UX para Dados:** Prototipagem de dashboards no **Figma** antes da implementação no Power BI.
+
+---
+
+### 🛠️ Data Stack & Toolkit
+
+| Camada | Tecnologias |
 | :--- | :--- |
-| **Ingestão & Automação** | Power Automate, SharePoint, Python |
-| **Processamento & ETL** | Dataflow (Multilayer), SQL, Pandas |
-| **Armazenamento** | Dataverse, PostgreSQL, SQL Server |
-| **Visualização & Apps** | Power BI, Power Apps, Figma, Excel |
+| **Engenharia & Automação** | Python (Pandas), SQL, Power Automate, Dataflow |
+| **Modelagem & Armazenamento** | Dataverse, PostgreSQL, SQL Server |
+| **Analytics & Visualização** | Power BI, Excel Avançado, Figma (Prototipagem) |
 
 ---
 
-### 🚀 Projeto em Destaque: BI Ecosystem Architecture
-**Descrição:** Criação de um ecossistema completo de BI, desde a automação da ingestão de dados brutos até o refinamento em camadas (Bronze/Silver/Gold).
-- **Impacto:** Eliminação de processos manuais e garantia de 100% de integridade dos dados nas análises finais.
-- **Ferramentas:** Power Automate, Dataflow, Dataverse, Power Apps e Power BI.
+### 🚀 Projetos de Impacto em Destaque
+
+* **[BI Ecosystem Architecture](https://github.com/CaioCoderOne/NOME-DO-REPO):** Criação de um ecossistema end-to-end integrando Power Automate -> Dataflow (Multilayer) -> Power BI para gestão de treinamentos na Vale.
+* **[Pipeline ETL Multicamadas](https://github.com/CaioCoderOne/NOME-DO-REPO):** Automação em Python para limpeza e validação de dados brutos com foco em escalabilidade e performance.
 
 ---
 
-### 📈 Conecte-se comigo
+### 📈 Atividade & Insights
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Automação+com+Python;Arquitetura+Multicamadas;Design+de+Dashboards+no+Figma;Analytics+Engineering+na+Vale&center=true&width=1000&duration=10000&color=A10000)](https://git.io/typing-svg)
+
 <div align="center">
-  <a href="https://www.linkedin.com/in/caio-le%C3%A3o-47273a285/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CaioCoderOne&theme=transparent&stroke=A10000&fire=A10000&ring=A10000" alt="Caio's Streak" />
 </div>
 
 ---
-"Dados refinados geram decisões precisas."
+
+### 🎮 Fora do Código
+Quando não estou refinando queries, estou explorando universos em mangás ou analisando mecânicas de RPGs. Acredito que a lógica dos jogos e a arquitetura de dados compartilham o mesmo DNA: a busca pela estratégia perfeita.
+
+### 🌐 Vamos conectar?
+<p align="left">
+  <a href="https://www.linkedin.com/in/caio-le%C3%A3o-47273a285/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+*"Dados refinados geram decisões precisas."*
