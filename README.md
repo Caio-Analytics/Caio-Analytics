@@ -1,4 +1,4 @@
-# Olá, eu sou o Caio 👋 | Analytics Engineer Intern @ Vale
+# Olá, eu sou o Caio 👋 | Analytics Engineer Intern
 ### 🏗️ Arquitetura Multicamadas | 🤖 Automação | 🎨 Data Experience
 
 <p align="center">
