@@ -1,48 +1,63 @@
-# Caio Leão
+# Olá, eu sou o Caio 👋
 
 ### Analista de Dados & Analytics Engineer
 
-Construo pipelines de dados de ponta a ponta: da ingestão de arquivo bruto e barulhento até o dashboard que a liderança usa pra decidir. Prefiro dado testado e documentado a dado bonito e frágil, e é por isso que arquitetura em camadas (Bronze, Silver, Gold) e teste automatizado aparecem em tudo que eu construo, corporativo ou pessoal.
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1200&color=DDAE3F&center=true&vCenter=true&width=560&lines=Transformando+dado+bruto+em+decis%C3%A3o;Bronze+%E2%86%92+Silver+%E2%86%92+Gold;dbt+%2B+SQL+%2B+Power+BI;Sempre+testando+antes+de+confiar)](https://git.io/typing-svg)
 
-📍 Parauapebas, Pará, Brasil &nbsp;·&nbsp; [Portfólio](https://caio-analytics.github.io/Portfolio-Caio-Leao/) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/caio-le)
+Comecei desmontando computador aos 12 anos pra entender o que tinha dentro. Hoje desmonto problema de negócio e remonto como pipeline de dados 🔧
 
----
-
-## Projetos
-
-Os dois projetos abaixo são a versão pública, com código aberto, do mesmo tipo de trabalho que faço em produção. Sem dado sintético: os dois rodam sobre arquivo real.
-
-**[Recon](https://github.com/Caio-Analytics/Recon)**
-Ferramenta de linha de comando que perfila arquivo de dado antes da análise começar de verdade: infere o que cada coluna representa mesmo com nome abreviado, roda estatística avançada (Shapiro-Wilk, correlação de Pearson/Spearman, ADF e Ljung-Box), cruza tabela pra achar fato e dimensão, detecta e mascara CPF/CNPJ. Só regra determinística, sem modelo de IA. 306 testes automatizados.
-
-**[Bateia](https://github.com/Caio-Analytics/bateia)** &nbsp;·&nbsp; [dashboard ao vivo](https://caio-analytics.github.io/bateia/) &nbsp;·&nbsp; [documentação dbt](https://caio-analytics.github.io/bateia/dbt/)
-Pipeline sobre dado público e real da mineração brasileira (ANM). A camada Bronze é Python/Polars, só o trecho que decodifica o CSV do governo; Silver, Gold e o cruzamento entre bases são inteiramente modelos dbt sobre DuckDB, com 58 testes de schema e documentação/linhagem geradas automaticamente. Dashboard publicado como um único HTML autocontido, sem backend.
+- 🔭 Atualmente: Analista de Dados na **Vale Base Metals**
+- 🌱 Construindo em público: **[Recon](https://github.com/Caio-Analytics/Recon)** e **[Bateia](https://github.com/Caio-Analytics/bateia)**
+- 📫 Tudo com print, número e link pra conferir no **[portfólio →](https://caio-analytics.github.io/Portfolio-Caio-Leao/)**
 
 ---
 
-## Impacto na Vale Base Metals
+### 🛠️ Stack
 
-Como Analista de Dados na Planta Salobo, estruturei o ecossistema de dados de RH/Treinamento e Desenvolvimento em camadas (Bronze, Silver, Gold) via Power BI Dataflow, e automatizei a ingestão com Power Automate e SharePoint/Dataverse. Sustento 14+ dashboards oficiais, usados por 300+ pessoas, com redução de 80% no esforço operacional de relatórios que antes eram manuais.
+**Dados & BI**
 
-O código é corporativo e não é público, mas os dois projetos acima usam exatamente a mesma abordagem (camadas, teste, documentação) em dado que qualquer um pode conferir.
+<p align="left">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logoColor=black" />
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logoColor=white" />
+</p>
+
+**Automação & Plataforma**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dataverse-8944AB?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logoColor=white" />
+</p>
+
+**Linguagens & Web**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+</p>
 
 ---
 
-## Stack
+### 📊 GitHub
 
-| Camada | Ferramentas |
-| :--- | :--- |
-| Transformação & modelagem | dbt, SQL, DuckDB, Power Query, DAX |
-| Linguagens | Python (Polars, Pandas), SQL |
-| BI & visualização | Power BI, Figma (prototipagem antes da primeira medida) |
-| Automação & plataforma | Power Automate, Power Apps, Microsoft Dataverse, SharePoint |
-| Testes & CI | pytest, dbt tests, GitHub Actions |
-
-**Certificações:** SQL, Python para Análise de Dados e Modelagem de Dados (Alura) &nbsp;·&nbsp; Microsoft Power BI (MLF Soluções Tecnológicas) &nbsp;·&nbsp; AWS Data Lake: Pipeline de Ingestão &nbsp;·&nbsp; Metodologias Ágeis
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Caio-Analytics&show_icons=true&theme=transparent&title_color=DDAE3F&text_color=EFE8D9&icon_color=DDAE3F&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caio-Analytics&layout=donut&theme=transparent&title_color=DDAE3F&text_color=EFE8D9&hide_border=true" />
+</p>
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Caio-Analytics&theme=transparent&stroke=DDAE3F&fire=DDAE3F&ring=DDAE3F&currStreakLabel=DDAE3F" />
+</p>
 
 ---
 
-## Fora do código
+### 🎮 Fora do código
 
 Mangá e RPG. A busca pela estratégia perfeita num sistema de jogo não é tão diferente da busca pela arquitetura certa pra um pipeline de dados.
 
