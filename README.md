@@ -2,9 +2,9 @@
 
 ### Analista de Dados & Analytics Engineer
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1200&color=DDAE3F&center=true&vCenter=true&width=560&lines=Transformando+dado+bruto+em+decis%C3%A3o;Bronze+%E2%86%92+Silver+%E2%86%92+Gold;dbt+%2B+SQL+%2B+Power+BI;Sempre+testando+antes+de+confiar)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1200&color=DDAE3F&center=true&vCenter=true&width=560&lines=Bronze+%E2%86%92+Silver+%E2%86%92+Gold%2C+sempre+testado;Linha+de+produ%C3%A7%C3%A3o+de+dado%2C+n%C3%A3o+de+parafuso;dbt+%2B+SQL+%2B+Power+BI%2C+sem+gambiarra;Se+n%C3%A3o+tem+teste%2C+n%C3%A3o+%C3%A9+pipeline)](https://git.io/typing-svg)
 
-Comecei desmontando computador aos 12 anos pra entender o que tinha dentro. Hoje desmonto problema de negócio e remonto como pipeline de dados 🔧
+Não confio em dado que não passou por teste. Estruturo tudo em camadas, documento a linhagem, e só acredito no número depois que ele sobreviveu a um `assert`.
 
 - 🔭 Atualmente: Analista de Dados na **Vale Base Metals**
 - 🌱 Construindo em público: **[Recon](https://github.com/Caio-Analytics/Recon)** e **[Bateia](https://github.com/Caio-Analytics/bateia)**
@@ -14,31 +14,30 @@ Comecei desmontando computador aos 12 anos pra entender o que tinha dentro. Hoje
 
 ### 🛠️ Stack
 
-**Dados & BI**
+**Dados & Transformação**
 
 <p align="left">
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logoColor=black" />
   <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black" />
   <img src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logoColor=white" />
-</p>
-
-**Automação & Plataforma**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dataverse-8944AB?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logoColor=white" />
-</p>
-
-**Linguagens & Web**
-
-<p align="left">
+  <img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+**Cloud & Escala**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+</p>
+
+**Plataforma & Automação**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Power_Platform-742774?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
 </p>
@@ -59,7 +58,7 @@ Comecei desmontando computador aos 12 anos pra entender o que tinha dentro. Hoje
 
 ### 🎮 Fora do código
 
-Mangá e RPG. A busca pela estratégia perfeita num sistema de jogo não é tão diferente da busca pela arquitetura certa pra um pipeline de dados.
+Otimizando linha de produção em **Dyson Sphere Program**, **Satisfactory** ou **Factorio**: RTS de automação, sempre. É a mesma lógica de gargalo e eficiência que aplico num pipeline de dado, só que lá o throughput é de minério, aqui é de registro. A maior parte desse conteúdo (wiki, fórum, patch note) eu consumo em inglês avançado, o mesmo que uso no trabalho. Mangá nas horas vagas.
 
 ---
 
