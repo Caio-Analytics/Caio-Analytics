@@ -2,9 +2,9 @@
 
 ### Analista de Dados & Analytics Engineer
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1200&color=DDAE3F&center=true&vCenter=true&width=560&lines=Bronze+%E2%86%92+Silver+%E2%86%92+Gold%2C+sempre+testado;Linha+de+produ%C3%A7%C3%A3o+de+dado%2C+n%C3%A3o+de+parafuso;dbt+%2B+SQL+%2B+Power+BI%2C+sem+gambiarra;Se+n%C3%A3o+tem+teste%2C+n%C3%A3o+%C3%A9+pipeline)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1200&color=DDAE3F&center=true&vCenter=true&width=560&lines=Arquitetura+Medallion%2C+sempre+testada;Linha+de+produ%C3%A7%C3%A3o+de+dado%2C+n%C3%A3o+de+parafuso;dbt+%2B+SQL+%2B+Power+BI%2C+sem+gambiarra;Se+n%C3%A3o+tem+teste%2C+n%C3%A3o+%C3%A9+pipeline)](https://git.io/typing-svg)
 
-Não confio em dado que não passou por teste. Estruturo tudo em camadas, documento a linhagem, e só acredito no número depois que ele sobreviveu a um `assert`.
+Não confio em dado que não passou por teste. Estruturo tudo em Arquitetura Medallion (Bronze, Silver, Gold), documento a linhagem, e só acredito no número depois que ele sobreviveu a um `assert`.
 
 - 🔭 Atualmente: Analista de Dados na **Vale Base Metals**
 - 🌱 Construindo em público: **[Recon](https://github.com/Caio-Analytics/Recon)** e **[Bateia](https://github.com/Caio-Analytics/bateia)**
@@ -38,6 +38,7 @@ Não confio em dado que não passou por teste. Estruturo tudo em camadas, docume
 
 <p align="left">
   <img src="https://img.shields.io/badge/Power_Platform-742774?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/IA_Aplicada_a_Processos-6F42C1?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
 </p>
@@ -46,10 +47,6 @@ Não confio em dado que não passou por teste. Estruturo tudo em camadas, docume
 
 ### 📊 GitHub
 
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Caio-Analytics&show_icons=true&theme=transparent&title_color=DDAE3F&text_color=EFE8D9&icon_color=DDAE3F&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caio-Analytics&layout=donut&theme=transparent&title_color=DDAE3F&text_color=EFE8D9&hide_border=true" />
-</p>
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Caio-Analytics&theme=transparent&stroke=DDAE3F&fire=DDAE3F&ring=DDAE3F&currStreakLabel=DDAE3F" />
 </p>
