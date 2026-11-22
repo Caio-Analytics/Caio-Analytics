@@ -6,7 +6,7 @@
 
 *Data analyst and analytics engineer from Brazil. I turn manual spreadsheet workflows into tested, traceable pipelines, and I'm open to freelance work and project collaboration.*
 
-Tenho uma implicância bem específica com processo que depende de alguém lembrar a ordem certa das planilhas e dos botões. Passei dois anos no RH da Vale. Hoje presto serviço para a Vale Base Metals, Planta Salobo, por uma empresa terceirizada, na área de contratos e serviços essenciais (fornecedores de alimentação, manutenção e afins). O tipo de trabalho é o mesmo, mas o foco agora é desenhar a arquitetura e a organização das listas que sustentam aplicativos Power Apps e automações. Gosto de encontrar o gargalo antes de automatizar qualquer coisa.
+Tenho uma implicância bem específica com processo que depende de alguém lembrar a ordem certa das planilhas e dos botões. Hoje meu foco é desenhar a arquitetura e a organização das listas que sustentam aplicativos Power Apps e automações. Gosto de encontrar o gargalo antes de automatizar qualquer coisa.
 
 Já peguei um processo manual de três dias e fiz uma versão em Python que gera os dados em aproximadamente um minuto. Além de ficar mais rápido, o processo precisa mostrar de onde o número veio quando alguém perguntar e ajudar a encontrar o erro antes de ele virar dashboard.
 
