@@ -4,6 +4,8 @@
 
 `planilha solta → processo que a equipe consegue usar`
 
+🇺🇸 [Read in English](README.en.md)
+
 *Data analyst and analytics engineer from Brazil. I turn manual spreadsheet workflows into tested, traceable pipelines, and I'm open to freelance work and project collaboration.*
 
 Tenho uma implicância bem específica com processo que depende de alguém lembrar a ordem certa das planilhas e dos botões. Tenho experiência com dados nas áreas de RH, Aprendizagem e Contratos. Hoje meu foco é desenhar a arquitetura e a organização das listas que sustentam aplicativos Power Apps e automações. Gosto de encontrar o gargalo antes de automatizar qualquer coisa.
