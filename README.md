@@ -4,49 +4,36 @@
 
 `planilha solta → processo que a equipe consegue usar`
 
-Tenho uma implicância bem específica com processo que depende de alguém lembrar a ordem certa das planilhas e dos botões. Trabalho com dados de RH na Vale Base Metals, Planta Salobo, e gosto de encontrar o gargalo antes de automatizar qualquer coisa.
+🇺🇸 [Read in English](README.en.md)
+
+*Data analyst and analytics engineer from Brazil. I turn manual spreadsheet workflows into tested, traceable pipelines, and I'm open to freelance work and project collaboration.*
+
+Tenho uma implicância bem específica com processo que depende de alguém lembrar a ordem certa das planilhas e dos botões. Tenho experiência com dados nas áreas de RH, Aprendizagem e Contratos. Hoje meu foco é desenhar a arquitetura e a organização das listas que sustentam aplicativos Power Apps e automações. Gosto de encontrar o gargalo antes de automatizar qualquer coisa.
 
 Já peguei um processo manual de três dias e fiz uma versão em Python que gera os dados em aproximadamente um minuto. Além de ficar mais rápido, o processo precisa mostrar de onde o número veio quando alguém perguntar e ajudar a encontrar o erro antes de ele virar dashboard.
 
-Nos projetos públicos, é onde testo ideias com mais calma. Uso Arquitetura Medallion, documento a linhagem e deixo testes no caminho, porque dado sem contexto e sem verificação dá trabalho dobrado depois.
+Nos projetos públicos eu testo ideias com mais calma. Uso Arquitetura Medallion (camadas bronze, silver e gold, do dado bruto ao pronto para análise), documento a linhagem e deixo testes no caminho, porque dado sem contexto e sem verificação dá trabalho dobrado depois.
 
 ## Por onde começar
 
-Se quiser fuçar o código, começaria por aqui:
-
-- [Recon](https://github.com/Caio-Analytics/Recon): para olhar uma base antes de confiar nela.
-- [Estrato](https://github.com/Caio-Analytics/Estrato-Panorama-Mineral-Brasileiro): para acompanhar um dado público até o dashboard.
-- [colsemantics](https://github.com/Caio-Analytics/colsemantics): para tentar entender o que uma coluna corporativa meio misteriosa quer dizer.
+- **[Estrato](https://github.com/Caio-Analytics/Estrato-Panorama-Mineral-Brasileiro)**: pipeline com dados públicos da ANM (10.295 registros, 2010 a 2025), Polars, dbt e DuckDB, com 57 testes de dados. Tem [dashboard ao vivo](https://caio-analytics.github.io/Estrato-Panorama-Mineral-Brasileiro/) e [linhagem dbt](https://caio-analytics.github.io/Estrato-Panorama-Mineral-Brasileiro/dbt/).
+- **[Recon](https://github.com/Caio-Analytics/Recon)**: para olhar uma base antes de confiar nela. Perfilamento e qualidade de dados local, com detecção de dado pessoal (LGPD), validação de CPF/CNPJ e relatório em HTML.
+- **[colsemantics](https://github.com/Caio-Analytics/colsemantics)**: para entender o que uma coluna corporativa misteriosa quer dizer (papel, domínio e sensibilidade). Está no [PyPI](https://pypi.org/project/colsemantics/).
 
 O restante está nos repositórios fixados e no [portfólio](https://caio-analytics.github.io/Portfolio-Caio-Leao/), com mais contexto, código e screenshots.
 
-<details>
-<summary>Minha caixa de ferramentas</summary>
+## Ferramentas
 
-<br>
+**Dados e transformação:** Python · SQL · dbt · DuckDB · Polars · Power BI · DAX
 
-**Dados e transformação**
+**Plataforma e automação:** Power Apps · Power Automate · SharePoint Lists · Git · GitHub Actions · AWS
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logoColor=white" alt="dbt" />
-  <img src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black" alt="DuckDB" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-</p>
+## Trabalho com
 
-**Plataforma e automação**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Power_Platform-742774?style=for-the-badge&logoColor=white" alt="Power Platform" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logoColor=white" alt="AWS" />
-</p>
-</details>
+Freelance e colaboração em projetos, principalmente: modelagem de listas e dados para Power Apps, automação de processos manuais, pipelines de dados com testes e qualidade de dados.
 
 ## Fora da planilha
 
 Dyson Sphere Program, Satisfactory e Factorio me pegam pelo mesmo motivo que dados: sempre tem um gargalo escondido em algum lugar. Também leio mangá e consumo bastante conteúdo técnico em inglês.
 
-[Portfólio](https://caio-analytics.github.io/Portfolio-Caio-Leao/) · [LinkedIn](https://www.linkedin.com/in/caio-le) · [E-mail](mailto:caiolmnnml@proton.me)
+[Portfólio](https://caio-analytics.github.io/Portfolio-Caio-Leao/) · [LinkedIn](https://www.linkedin.com/in/caio-le)
